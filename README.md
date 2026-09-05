@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at **Rezerv (Remote)**  <br>👯 I’m open to collaborating with remote teams  <br>🤝 I’m looking to contribute to exciting products and future innovations  <br>🌱 Currently learning **Cloud technologies** and **Golang**  <br>💬 Ask me about web development, React, Laravel, Vue, Next, Node or your next tech idea  <br>⚡ Fun fact: I enjoy blending creativity with code to build impactful experiences!<br>
+🔭 I’m currently working at **Rezerv (Remote)**  <br>👯 I’m open to collaborating with remote teams  <br>🤝 I’m looking to contribute to exciting products and future innovations  <br>🌱 Currently learning **Cloud technologies** and **AI**  <br>💬 Ask me about web development, React, Laravel, Vue, Next, Node or your next tech idea  <br>⚡ Fun fact: I enjoy blending creativity with code to build impactful experiences!<br>
 
 
 ## 🌐 Socials:
